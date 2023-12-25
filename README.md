@@ -1,5 +1,5 @@
 This repository contains all the basic data science concepts with their implementations and and resulting outputs.
-
+All the following tasks are implemented using python in the repository , you can try this with any other languages like R, Matplotlib,etc.
 Which includes the following tasks:
 
 #1: Basics of Coding R/Python
